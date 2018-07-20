@@ -1,2 +1,2 @@
 # Tencent-Advertising-Competition-Code
-腾讯社交广告大赛代码总结
+腾讯社交广告大赛代码 
